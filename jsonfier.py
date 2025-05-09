@@ -89,32 +89,16 @@ def read_car_data(car_num):
                 json.dump(json_data, f, indent=4)
             #print(f"Data for {column_name} saved to {file_name}")
             i+=1
-
-#read_car_data(214)  
-#read_car_data(231)
-#read_car_data(233)      
-        
     
-
-
-
-
-
 #pkl_file = torch.load('your_pkl_file.pkl')
 #time_series_data = pkl_file[0]
 #column_names = torch.load('column.pkl')
-
-
 '''
 df = pd.DataFrame(car_data[31][177], columns=columns)
-
 timestamp = df.iloc[:, 7]
-
 voltage = df['volt']
 current = df['current']
 soc = df['soc']
-
-
 
 plt.figure(figsize=(12, 6))
 plt.subplot(3, 1, 1)
@@ -123,31 +107,25 @@ plt.xlabel('Time (s)')
 plt.ylabel('Voltage')
 plt.title('Voltage over Time')
 plt.legend()
-
-
 plt.subplot(3, 1, 2)
 plt.plot(timestamp, current, label='Current', color='orange')
 plt.xlabel('Time (s)')
 plt.ylabel('Current')
 plt.title('Current over Time')
 plt.legend()
-
 plt.subplot(3, 1, 3)
 plt.plot(timestamp, soc, label='SOC', color='red')
 plt.xlabel('Time (s)')
 plt.ylabel('SOC')
 plt.title('SOC over Time')
 plt.legend()
-
 plt.tight_layout()
 plt.show()
-
 #print(car_data[31][177])
-    
-    
-
 '''
-
-#print('completed')
+if __name__ == '__main__':
+    read_car_data(214)  
+    read_car_data(231)
+    read_car_data(233)  
 
 
