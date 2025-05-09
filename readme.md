@@ -1,4 +1,25 @@
+# Basic requirements
+```
+# basic environment
+CUDA 10.2  # Must use this specific version. Please follow https://developer.nvidia.com/cuda-10.2-download-archive. 
+python 3.6
+
+# pytorch version
+pytorch==1.5.1
+
+# run after installing correct Pytorch package
+pip install --no-index torch-scatter -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
+pip install --no-index torch-sparse -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
+pip install --no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
+pip install --no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
+pip install torch-geometric==1.5.0
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt
+pip install tensorflow==2.6.2
+```
+
+
 # File content
+the files and folders description are shown below:
 ```
 FaultDetection/
 ├── data/
@@ -41,25 +62,7 @@ FaultDetection/
 ├── score.py                            # functions for server to reconstruct the score datas
 └── server.py                           # server
 ```
-# For first run:
-## Basic requirements
-```
-# basic environment
-CUDA 10.2  # Must use this specific version. Please follow https://developer.nvidia.com/cuda-10.2-download-archive. 
-python 3.6
-
-# pytorch version
-pytorch==1.5.1
-
-# run after installing correct Pytorch package
-pip install --no-index torch-scatter -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
-pip install --no-index torch-sparse -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
-pip install --no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
-pip install --no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.5.0+cu102.html
-pip install torch-geometric==1.5.0
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirement.txt
-pip install tensorflow==2.6.2
-```
+# Data generation(first run):
 ## Generating five-fold datasets
 run the `five_fold_train_test_split.ipynb` to split the datasets
 

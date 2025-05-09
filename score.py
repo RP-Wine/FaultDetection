@@ -13,8 +13,11 @@ def get_segment_scores(car_num, segment_num):
     feature_dir = os.path.join(run_folder, 'mean')
     found = False
     target_rec_error = None
+
     #serch lists:
     file_list = [f for f in os.listdir(feature_dir) if f.endswith('_label.file')]
+
+    #search the data:
     for filename in file_list:
         file_path = os.path.join(feature_dir, filename)       
         #load the dict
@@ -36,7 +39,7 @@ def get_segment_scores(car_num, segment_num):
                 break 
         if found:
             break 
-    # output
+    # reconstruct and save the output
     if found:
         print("Segment Score:", target_rec_error)
         result = {
