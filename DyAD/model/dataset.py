@@ -13,6 +13,7 @@ class Dataset:
     def __init__(self, data_path, all_car_dict_path='../five_fold_utils/all_car_dict.npz.npy',
      ind_ood_car_dict_path='../five_fold_utils/ind_odd_dict2.npz.npy',
      train=True, fold_num=0):
+        #load the datas
         ind_ood_car_dict = np.load(ind_ood_car_dict_path, allow_pickle=True).item()
         self.ind_car_num_list = ind_ood_car_dict['ind_sorted']
         # self.ind_car_num_list = [2, 193, 45, 73, 354]  # used for debug
@@ -21,6 +22,7 @@ class Dataset:
         # self.ood_car_num_list = [186, 204, 349, 236, 136]  # used for debug
         self.all_car_dict = np.load(all_car_dict_path, allow_pickle=True).item()
 
+        #select the cars according to the five-fold process
         if train:
             car_number = self.ind_car_num_list[
                          :int(fold_num * len(self.ind_car_num_list) / 5)] + self.ind_car_num_list[

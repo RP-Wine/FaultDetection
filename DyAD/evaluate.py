@@ -15,6 +15,7 @@ class Evaluate:
         """
         self.args = args
 
+    #load the feature saved in /feature and /mean, calculate the mean
     @staticmethod
     def get_feature_label(data_path, max_group=None):
         if max_group is None:
@@ -41,13 +42,14 @@ class Evaluate:
         return pd.DataFrame(res, columns=['car', 'label', 'rec_error'])
 
     def main(self):
+        #train set rec_err calculation
         x, label = self.get_feature_label(self.args.feature_path, max_group=20000)
         print("Loading feature is :", x.shape)
         print("Loading label is :", label.shape)
 
         result = eval('self.calculate_' + self.args.use_flag)(x, label)
         result.to_csv(os.path.join(self.args.result_path, "train_segment_scores.csv"))
-
+        #test set rec_err calculation
         x, label = self.get_feature_label(self.args.save_feature_path, max_group=20000)
         print("Loading test feature is :", x.shape)
         print("Loading test label is :", label.shape)

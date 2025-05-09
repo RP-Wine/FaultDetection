@@ -81,13 +81,14 @@ class Train_fivefold:
         rec_error: reconstruct error
         """
         print("Loading data to memory. This may take a few minutes...")
-        data_pre = dataset.Dataset(self.args.train_path, train=True, fold_num=self.fold_num)
+        data_pre = dataset.Dataset(self.args.train_path, train=True, fold_num=self.fold_num)#load the datasets
         self.normalizer = Normalizer(dfs=[data_pre[i][0] for i in range(200)],
                                      variable_length=self.args.variable_length)
-        train = PreprocessNormalizer(data_pre, normalizer_fn=self.normalizer.norm_func)
+        train = PreprocessNormalizer(data_pre, normalizer_fn=self.normalizer.norm_func)#min-max normalization
         print("Data loaded successfully.")
 
         self.args.columns = torch.load(os.path.join(os.path.dirname(self.args.train_path), "column.pkl"))
+        #define the encoder filters and encoder-decoder dimensions
         self.data_task = tasks.Task(task_name=self.args.task, columns=self.args.columns)
         params = dict(
             rnn_type=self.args.rnn_type,
@@ -104,6 +105,7 @@ class Train_fivefold:
             output_embedding_size=self.data_task.output_dimension)
         # specify model
         if self.args.model_type == "rnn":
+            #initialize the model
             model = to_var(dynamic_vae.DynamicVAE(**params)).float()
         else:
             model = None
@@ -127,13 +129,16 @@ class Train_fivefold:
                 for batch in data_loader:
                     batch_ = to_var(batch[0]).float()
                     seq_lengths = batch[1]['seq_lengths'] if self.args.variable_length else None
+                    #selecet the encoder and decoder filter(soc,cur,voltage,temp)
                     log_p, mean, log_v, z, mean_pred = model(batch_,
                                                              encoder_filter=self.data_task.encoder_filter,
                                                              decoder_filter=self.data_task.decoder_filter,
                                                              seq_lengths=seq_lengths, noise_scale=self.args.noise_scale)
+                    
                     target = self.data_task.target_filter(batch_)
-
+                    #calculate loss
                     nll_loss, kl_loss, kl_weight = self.loss_fn(log_p, target, mean, log_v)
+                    #mieage loss
                     self.label_data = tasks.Label(column_name="mileage", training_set=train)
                     label_loss = self.label_data.loss(batch, mean_pred, is_mse=True)
                     loss = (self.args.nll_weight * nll_loss + self.args.latent_label_weight * label_loss + kl_weight *
@@ -172,8 +177,9 @@ class Train_fivefold:
 
         print("Train completed, save information")
         # save model and parameters
-        model.eval()
+        model.eval()       
         p_bar = tqdm(total=len(data_loader), desc='saving', ncols=100, mininterval=1, maxinterval=10, miniters=1)
+        #save the rec_err
         extract(data_loader, model, self.data_task, self.args.feature_path, p_bar, self.args.noise_scale,
                 self.args.variable_length)
         p_bar.close()

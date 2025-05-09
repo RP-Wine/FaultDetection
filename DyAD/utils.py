@@ -101,16 +101,19 @@ def collate(batch_data):
     return padded_sent_seq, metadata
 
 
-
+#calculate the norm, std, mean
+#data initilized and transfered through dfs
 class Normalizer:
     def __init__(self, dfs=None, variable_length=False):
         self.max_norm = 0
         self.min_norm = 0
         self.std = 0
         self.mean = 0
-        res = []
+        res = []        #result
         if dfs is not None:
+            #if dfs is variable length
             if variable_length:
+                #find the minimum length and cut the data to this len
                 norm_length = min([len(df) for df in dfs])
                 dfs = [df[0:norm_length] for df in dfs]
             res.extend(dfs)
@@ -118,7 +121,7 @@ class Normalizer:
             self.compute_min_max(res)
         else:
             raise Exception("df list not specified")
-
+    #calculate the params needed in normalization
     def compute_min_max(self, res):
         column_max_all = np.max(res, axis=1)
         column_min_all = np.min(res, axis=1)
@@ -128,16 +131,16 @@ class Normalizer:
         self.min_norm = np.min(column_min_all, axis=0)
         self.std = np.mean(column_std_all, axis=0)
         self.mean = np.mean(column_mean_all, axis=0)
-
+    #z-score normalization (X - mean) / std
     def std_norm_df(self, df):
         return (df - self.mean) / np.maximum(1e-4, self.std)
-
+    #min-max normalization (X - mean) / max(epsilon, std, 0.1 * (max_val - min_val))
     def norm_func(self, df):
         df_norm = df.copy()
         df_norm = (df_norm - self.mean) / np.maximum(np.maximum(1e-4, self.std), 0.1 * (self.max_norm - self.min_norm))
         return df_norm
 
-
+#pack the normalization functions into this class
 class PreprocessNormalizer:
 
     def __init__(self, dataset, normalizer_fn=None):
