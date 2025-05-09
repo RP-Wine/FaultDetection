@@ -1,0 +1,1282 @@
+[
+    {
+        "max_single_volt": 4.238655789445167,
+        "time": 0.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 0.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23865240301257,
+        "time": 10.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 10.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238649016579974,
+        "time": 20.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 20.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238645630147378,
+        "time": 30.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 30.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238642243714781,
+        "time": 40.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 40.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238638857282185,
+        "time": 50.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 50.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238635470849588,
+        "time": 60.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 60.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238632084416992,
+        "time": 70.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 70.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238628697984395,
+        "time": 80.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 80.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2386253115517984,
+        "time": 90.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 90.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238621925119203,
+        "time": 100.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 100.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238618538686606,
+        "time": 110.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 110.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23861515225401,
+        "time": 120.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 120.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238611765821413,
+        "time": 130.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 130.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2386083793888165,
+        "time": 140.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 140.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23860499295622,
+        "time": 150.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 150.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238601606523623,
+        "time": 160.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 160.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238598220091028,
+        "time": 170.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 170.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238594833658431,
+        "time": 180.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 180.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238591447225835,
+        "time": 190.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 190.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238588060793238,
+        "time": 200.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 200.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2385846743606415,
+        "time": 210.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 210.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238581287928045,
+        "time": 220.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 220.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238577901495448,
+        "time": 230.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 230.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238574515062852,
+        "time": 240.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 240.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238571128630256,
+        "time": 250.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 250.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2385677421976595,
+        "time": 260.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 260.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238564355765063,
+        "time": 270.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 270.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238560969332466,
+        "time": 280.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 280.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23855758289987,
+        "time": 290.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 290.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238554196467273,
+        "time": 300.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 300.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238550810034677,
+        "time": 310.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 310.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238547423602081,
+        "time": 320.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 320.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2385440371694845,
+        "time": 330.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 330.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238540650736888,
+        "time": 340.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 340.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238537264304291,
+        "time": 350.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 350.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238533877871695,
+        "time": 360.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 360.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238530491439098,
+        "time": 370.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 370.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238527105006502,
+        "time": 380.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 380.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238523718573905,
+        "time": 390.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 390.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238520332141309,
+        "time": 400.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 400.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238516945708713,
+        "time": 410.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 410.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238513559276116,
+        "time": 420.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 420.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23851017284352,
+        "time": 430.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 430.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238506786410923,
+        "time": 440.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 440.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238503399978327,
+        "time": 450.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 450.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23850001354573,
+        "time": 460.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 460.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238496627113134,
+        "time": 470.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 470.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238493240680538,
+        "time": 480.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 480.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238489854247941,
+        "time": 490.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 490.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238486467815345,
+        "time": 500.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 500.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238483081382748,
+        "time": 510.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 510.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2384796949501515,
+        "time": 520.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 520.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238476308517555,
+        "time": 530.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 530.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238472922084958,
+        "time": 540.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 540.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238469535652363,
+        "time": 550.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 550.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238466149219766,
+        "time": 560.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 560.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23846276278717,
+        "time": 570.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 570.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238459376354573,
+        "time": 580.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 580.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2384559899219765,
+        "time": 590.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 590.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23845260348938,
+        "time": 600.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 600.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238449217056783,
+        "time": 610.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 610.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238445830624188,
+        "time": 620.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 620.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238442444191591,
+        "time": 630.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 630.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2384390577589945,
+        "time": 640.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 640.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238435671326398,
+        "time": 650.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 650.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238432284893801,
+        "time": 660.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 660.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238428898461205,
+        "time": 670.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 670.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238425512028608,
+        "time": 680.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 680.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238422125596012,
+        "time": 690.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 690.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238418739163416,
+        "time": 700.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 700.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2384153527308195,
+        "time": 710.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 710.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238411966298223,
+        "time": 720.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 720.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238408579865626,
+        "time": 730.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 730.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23840519343303,
+        "time": 740.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 740.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238401807000433,
+        "time": 750.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 750.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238398420567837,
+        "time": 760.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 760.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238395034135241,
+        "time": 770.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 770.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238391647702644,
+        "time": 780.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 780.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238388261270048,
+        "time": 790.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 790.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238384874837451,
+        "time": 800.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 800.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238381488404855,
+        "time": 810.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 810.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238378101972258,
+        "time": 820.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 820.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238374715539662,
+        "time": 830.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 830.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238371329107065,
+        "time": 840.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 840.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238367942674469,
+        "time": 850.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 850.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238364556241873,
+        "time": 860.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 860.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238361169809276,
+        "time": 870.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 870.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23835778337668,
+        "time": 880.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 880.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238354396944083,
+        "time": 890.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 890.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2383510105114865,
+        "time": 900.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 900.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23834762407889,
+        "time": 910.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 910.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238344237646294,
+        "time": 920.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 920.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238340851213698,
+        "time": 930.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 930.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238337464781101,
+        "time": 940.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 940.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238334078348505,
+        "time": 950.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 950.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238330691915908,
+        "time": 960.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 960.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2383273054833115,
+        "time": 970.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 970.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238323919050715,
+        "time": 980.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 980.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238320532618118,
+        "time": 990.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 990.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238317146185523,
+        "time": 1000.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1000.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238313759752926,
+        "time": 1010.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1010.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23831037332033,
+        "time": 1020.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1020.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238306986887733,
+        "time": 1030.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1030.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238303600455136,
+        "time": 1040.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1040.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23830021402254,
+        "time": 1050.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1050.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238296827589943,
+        "time": 1060.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1060.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238293441157348,
+        "time": 1070.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1070.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238290054724751,
+        "time": 1080.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1080.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.2382866682921545,
+        "time": 1090.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1090.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.238283281859558,
+        "time": 1100.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1100.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1110.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.22890625,
+        "time": 1110.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1120.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.2265625,
+        "time": 1120.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1130.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.2265625,
+        "time": 1130.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1140.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.228125,
+        "time": 1140.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1150.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1150.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1160.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.22890625,
+        "time": 1160.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1170.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.2265625,
+        "time": 1170.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1180.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.228125,
+        "time": 1180.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1190.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1190.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1200.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.22890625,
+        "time": 1200.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1210.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.228125,
+        "time": 1210.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1220.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.22890625,
+        "time": 1220.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1230.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.228125,
+        "time": 1230.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1240.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1240.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1250.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1250.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1260.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.23046875,
+        "time": 1260.0,
+        "s": "min"
+    },
+    {
+        "max_single_volt": 4.23828125,
+        "time": 1270.0,
+        "s": "max"
+    },
+    {
+        "max_single_volt": 4.22890625,
+        "time": 1270.0,
+        "s": "min"
+    }
+]

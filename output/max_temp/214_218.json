@@ -1,0 +1,1282 @@
+[
+    {
+        "max_temp": 29.0,
+        "time": 0.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 0.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 10.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 10.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 20.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 20.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 30.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 30.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 40.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 40.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 50.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 50.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 60.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 60.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 70.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 70.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 80.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 80.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 90.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 90.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 100.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 100.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 110.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 110.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 120.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 120.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 130.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 130.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 140.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 140.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 150.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 150.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 160.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 160.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 170.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 170.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 180.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 180.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 190.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 190.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 200.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 200.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 210.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 210.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 220.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 220.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 230.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 230.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 240.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 240.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 250.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 250.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 260.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 260.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 270.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 270.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 280.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 280.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 290.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 290.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 300.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 300.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 310.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 310.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 320.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 320.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 330.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 330.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 340.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 340.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 350.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 350.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 360.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.8,
+        "time": 360.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 370.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.2,
+        "time": 370.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 380.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 28.0,
+        "time": 380.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 390.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.8,
+        "time": 390.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 400.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 400.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 410.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 410.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 420.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 420.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 430.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 430.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 440.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 440.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 450.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 450.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 460.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 460.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 470.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 470.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 480.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 480.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 490.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 490.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 500.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 500.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 510.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 510.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 520.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 520.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 530.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 530.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 540.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 540.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 550.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 550.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 560.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 560.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 570.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 570.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 580.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 580.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 590.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 590.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 600.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 600.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 610.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 610.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 620.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 620.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 630.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 630.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 640.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 640.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 650.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 650.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 660.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 27.0,
+        "time": 660.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 670.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.99961904761905,
+        "time": 670.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 680.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.997714285714284,
+        "time": 680.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 690.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.995809523809523,
+        "time": 690.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 700.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.993904761904762,
+        "time": 700.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 710.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.992,
+        "time": 710.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 720.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.99009523809524,
+        "time": 720.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 730.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.988190476190475,
+        "time": 730.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 740.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.986285714285714,
+        "time": 740.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 750.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.984380952380953,
+        "time": 750.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 760.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.98247619047619,
+        "time": 760.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 770.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.98057142857143,
+        "time": 770.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 780.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.978666666666665,
+        "time": 780.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 790.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.976761904761904,
+        "time": 790.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 800.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.974857142857143,
+        "time": 800.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 810.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.972952380952382,
+        "time": 810.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 820.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.97104761904762,
+        "time": 820.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 830.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.969142857142856,
+        "time": 830.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 840.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.967238095238095,
+        "time": 840.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 850.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.965333333333334,
+        "time": 850.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 860.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.963428571428572,
+        "time": 860.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 870.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.96152380952381,
+        "time": 870.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 880.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.959619047619046,
+        "time": 880.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 890.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.957714285714285,
+        "time": 890.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 900.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.955809523809524,
+        "time": 900.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 910.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.953904761904763,
+        "time": 910.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 920.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.952,
+        "time": 920.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 930.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.950095238095237,
+        "time": 930.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 940.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.948190476190476,
+        "time": 940.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 950.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.946285714285715,
+        "time": 950.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 960.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.944380952380953,
+        "time": 960.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 970.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.942476190476192,
+        "time": 970.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 980.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.940571428571428,
+        "time": 980.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 990.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.938666666666666,
+        "time": 990.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1000.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.936761904761905,
+        "time": 1000.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1010.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.934857142857144,
+        "time": 1010.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1020.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.93295238095238,
+        "time": 1020.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1030.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.931047619047618,
+        "time": 1030.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1040.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.929142857142857,
+        "time": 1040.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1050.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.927238095238096,
+        "time": 1050.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1060.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.925333333333334,
+        "time": 1060.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1070.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.92342857142857,
+        "time": 1070.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1080.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.92152380952381,
+        "time": 1080.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1090.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.919619047619047,
+        "time": 1090.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1100.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.917714285714286,
+        "time": 1100.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1110.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.915809523809525,
+        "time": 1110.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1120.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.91390476190476,
+        "time": 1120.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1130.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.912,
+        "time": 1130.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1140.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.910095238095238,
+        "time": 1140.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1150.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.908190476190477,
+        "time": 1150.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1160.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.906285714285715,
+        "time": 1160.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1170.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.90438095238095,
+        "time": 1170.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1180.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.90247619047619,
+        "time": 1180.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1190.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.90057142857143,
+        "time": 1190.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1200.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.898666666666667,
+        "time": 1200.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1210.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.896761904761906,
+        "time": 1210.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1220.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.89485714285714,
+        "time": 1220.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1230.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.89295238095238,
+        "time": 1230.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1240.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.89104761904762,
+        "time": 1240.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1250.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.889142857142858,
+        "time": 1250.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1260.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.887238095238096,
+        "time": 1260.0,
+        "s": "min"
+    },
+    {
+        "max_temp": 29.0,
+        "time": 1270.0,
+        "s": "max"
+    },
+    {
+        "max_temp": 26.88533333333333,
+        "time": 1270.0,
+        "s": "min"
+    }
+]
